@@ -2,5 +2,12 @@
     "pack": {
         "description": "Pandunian translation of Minecraft",
         "pack_format": 5
+    },
+    "language":{
+        "pa_da": {
+            "name": "pandunia",
+            "region": "dunia",
+            "bidirectional": false
+        }
     }
 }
