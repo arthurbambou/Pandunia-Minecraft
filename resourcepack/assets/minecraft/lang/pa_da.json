@@ -247,6 +247,7 @@
     "selectWorld.gameMode.creative.line2":"destroy blocks instantly",
     "selectWorld.gameMode.spectator":"noti",
     "selectWorld.gameMode.spectator.line1":"Du abla vida a no toca",
+    "selectWorld.gameMode.spectator.line2":" ",
     "selectWorld.gameMode.hardcore":"kunani",
     "selectWorld.gameMode.hardcore.line1":"sami ko hayomode, a maximi",
     "selectWorld.gameMode.hardcore.line2":"kunane, e un haye",
