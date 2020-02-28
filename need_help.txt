@@ -1,4 +1,4 @@
-key of string I was unable to translate using http://www.pandunia.info/engli/tiddly.html as of 27.02.2020.
+key of string I was unable to translate as of 29.02.2020 using http://www.pandunia.info/engli/tiddly.html .
 
 narrator.button.accessibility
 
