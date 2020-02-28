@@ -229,3 +229,24 @@ chat.link.confirmTrusted
 chat.link.open
 
 chat.coordinates.tooltip
+
+connect.connecting
+connect.aborted
+connect.negotiating
+
+connect.failed
+disconnect.disconnected
+
+disconnect.kicked
+
+disconnect.loginFailedInfo.serversUnavailable
+disconnect.loginFailedInfo.invalidSession
+
+disconnect.overflow
+disconnect.spam
+soundCategory.master
+soundCategory.record
+
+soundCategory.block
+
+options.hidden
