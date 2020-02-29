@@ -3,7 +3,7 @@ const fs = require("fs")
 
 const newLang = require("./en_us.json")
 const oldLang = require("./resourcepack/assets/minecraft/lang/en_us.json")
-const pandunia = require("./resourcepack/assets/minecraft/lang/pa_da.json")
+const pandunia = require("./resourcepack/assets/minecraft/lang/qpn.json")
 
 lg(`Upgrading lang files from ${minecraftVersion.old} to ${minecraftVersion.new}`)
 
@@ -75,7 +75,7 @@ for(var b = 0; b < newPandunia.keys.length; b++) {
     panduniaObject[newPandunia.keys[b]] = newPandunia.values[b]
 }
 
-fs.writeFileSync("./resourcepack/assets/minecraft/lang/pa_da.json", JSON.stringify(panduniaObject,null, 2))
+fs.writeFileSync("./resourcepack/assets/minecraft/lang/qpn.json", JSON.stringify(panduniaObject,null, 2))
 fs.writeFileSync("./resourcepack/assets/minecraft/lang/en_us.json", JSON.stringify(newLang, null, 2))
 
 var string = ""
