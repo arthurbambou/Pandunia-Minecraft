@@ -5,7 +5,7 @@ const newLang = require("./en_us.json")
 const oldLang = require("./resourcepack/assets/minecraft/lang/en_us.json")
 const pandunia = require("./resourcepack/assets/minecraft/lang/qpn.json")
 
-lg(`Upgrading lang files from ${minecraftVersion.old} to ${minecraftVersion.new}`)
+l(`Upgrading lang files from ${minecraftVersion.old} to ${minecraftVersion.new}`)
 
 var newLangInfo = {
     keys : [],
@@ -16,7 +16,7 @@ for(x in newLang) {
     newLangInfo.keys.push(x)
     newLangInfo.values.push(newLang[x])
 }
-lg(newLangInfo.keys)
+l(newLangInfo.keys)
 
 var oldLangInfo = {
     keys : [],
@@ -97,6 +97,6 @@ fs.writeFileSync("./totranslate.txt", string)
 
 
 
-function lg(string) {
+function l(string) {
     console.log(string);
 }
