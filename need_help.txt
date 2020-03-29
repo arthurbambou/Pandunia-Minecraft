@@ -1454,6 +1454,26 @@ item.minecraft.tipped_arrow.effect.luck
 item.minecraft.tipped_arrow.effect.turtle_master
 item.minecraft.tipped_arrow.effect.slow_falling
 
+subtitles.block.anvil.destroy
+subtitles.block.anvil.land
+subtitles.block.anvil.use
+subtitles.block.barrel.close
+subtitles.block.beehive.shear
+subtitles.block.bell.use
+subtitles.block.bell.resonate
+subtitles.block.blastfurnace.fire_crackle
+subtitles.block.brewing_stand.brew
+subtitles.block.chest.close
+subtitles.block.chest.locked
+subtitles.block.chorus_flower.death
+subtitles.block.chorus_flower.grow
+subtitles.block.comparator.click
+subtitles.block.fence_gate.toggle
+subtitles.block.furnace.fire_crackle
+subtitles.block.iron_trapdoor.open
+subtitles.block.iron_trapdoor.close
+subtitles.block.lever.click
+subtitles.block.piston.move
 subtitles.block.shulker_box.close
 subtitles.block.shulker_box.open
 subtitles.block.trapdoor.toggle
