@@ -1454,6 +1454,18 @@ item.minecraft.tipped_arrow.effect.luck
 item.minecraft.tipped_arrow.effect.turtle_master
 item.minecraft.tipped_arrow.effect.slow_falling
 
+item.minecraft.shield
+block.minecraft.banner.stripe_left.black
+block.minecraft.banner.stripe_right.black
+block.minecraft.banner.stripe_center.black
+block.minecraft.banner.small_stripes.black
+block.minecraft.banner.rhombus.black
+block.minecraft.banner.half_vertical.black
+block.minecraft.banner.half_vertical_right.black
+block.minecraft.banner.bricks.black
+block.minecraft.banner.gradient.black
+block.minecraft.banner.gradient_up.black
+
 subtitles.block.anvil.destroy
 subtitles.block.anvil.land
 subtitles.block.anvil.use
