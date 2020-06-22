@@ -5,15 +5,10 @@ narrator.button.accessibility
 narrator.button.difficulty_lock
 narrator.button.difficulty_lock.unlocked
 narrator.button.difficulty_lock.locked
-narrator.screen.title
 
-gui.cancel
-
-gui.toTitle
 gui.toMenu
 gui.recipebook.moreRecipes
 
-gui.recipebook.toggleRecipes.craftable
 gui.recipebook.toggleRecipes.smeltable
 gui.recipebook.toggleRecipes.blastable
 gui.recipebook.toggleRecipes.smokable
@@ -33,7 +28,6 @@ menu.generatingTerrain
 menu.sendFeedback
 
 menu.modded
-optimizeWorld.confirm.title
 optimizeWorld.confirm.description
 optimizeWorld.title
 optimizeWorld.stage.counting
@@ -46,8 +40,6 @@ optimizeWorld.info.total
 selectWorld.edit.openFolder
 
 selectWorld.edit.backupFolder
-
-selectWorld.edit.optimize
 
 selectWorld.seedInfo
 selectWorld.cheats
@@ -1864,6 +1856,4 @@ generator.minecraft.floating_islands
 realms.missing.snapshot.error.text
 
 color.minecraft.purple
-color.minecraft.cyan
 color.minecraft.lime
-color.minecraft.magenta
