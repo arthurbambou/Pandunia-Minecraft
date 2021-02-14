@@ -41,15 +41,15 @@ def registerCommand(name, desc, callback):
 
 def init():
     language_name = None
-    while language_name is None or language_name is "":
+    while language_name is None or language_name == "":
         print("What is your language name?")
         language_name = input("-> ")
     language_region = None
-    while language_region is None or language_region is "":
+    while language_region is None or language_region == "":
         print("What is your language region?")
         language_region = input("-> ")
     language_code = None
-    while language_code is None or language_code is "":
+    while language_code is None or language_code == "":
         print("What is your language code? (Example: US English is en_us)")
         language_code = input("-> ")
     print("Is your language bidirectional?")
@@ -57,7 +57,7 @@ def init():
     while language_bidirectional is None or language_bidirectional not in booleans:
         print("Is your language bidirectional?")
         language_bidirectional = str(input("-> ")).lower()
-    if language_bidirectional is "yes":
+    if language_bidirectional == "yes":
         language_bidirectional = True
     else:
         language_bidirectional = False
@@ -308,7 +308,7 @@ def build():
         lang_file_content = {}
         for row in csv_rows:
             if row is not csv_rows[0]:
-                if row[2] is not "":
+                if row[2] != "":
                     lang_file_content[row[0]] = row[2]
         if not os.path.isdir("resourcepack/assets"):
             os.mkdir("resourcepack/assets")

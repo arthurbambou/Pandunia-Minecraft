@@ -70,7 +70,7 @@ menu.shareToLan,Open to LAN,kaya pa LAN
 menu.sendFeedback,Give Feedback,retrologe
 menu.reportBugs,Report Bugs,reporta probleme
 menu.paused,Game paused,pauzi geme
-menu.modded," (Modded)"," (sifmuti)"
+menu.modded, (Modded), (sifmuti)
 optimizeWorld.confirm.title,Optimize world,kamila dunia
 optimizeWorld.confirm.description,"This will attempt to optimize your world by making sure all data is stored in the most recent game format. This can take a very long time, depending on your world. Once done, your world may play faster but will no longer be compatible with older versions of the game. Are you sure you wish to proceed?","ye vilo testa kamila ti dunia pa sekura pan date sa maxim novi forme. ye abla dura multi zamane, xartu ti dunia. sa finu, ti dunia abla gemu max rapido, a le no funcu sa max purani versione da geme. te ameno vola jina?"
 optimizeWorld.title,Optimizing World '%s',kamila dunia '%s'
@@ -247,7 +247,7 @@ selectWorld.gameMode.creative.line1,"Unlimited resources, free flying and","anli
 selectWorld.gameMode.creative.line2,destroy blocks instantly,unmari harabe da bloke
 selectWorld.gameMode.spectator,Spectator,kanmode
 selectWorld.gameMode.spectator.line1,You can look but don't touch,abla vida a no toca
-selectWorld.gameMode.spectator.line2,," "
+selectWorld.gameMode.spectator.line2,, 
 selectWorld.gameMode.hardcore,Hardcore,kunanmode
 selectWorld.gameMode.hardcore.line1,"Same as survival mode, locked at hardest","sami ko jivmode, a maxim"
 selectWorld.gameMode.hardcore.line2,"difficulty, and one life only","kunani, e da uni jive"
@@ -491,7 +491,7 @@ options.graphics.fancy,Fancy,kosti
 options.graphics.fast,Fast,rapidi
 options.clouds.fancy,Fancy,kosti
 options.clouds.fast,Fast,rapidi
-options.guiScale,GUI Scale,"g.u.m. du "
+options.guiScale,GUI Scale,g.u.m. du 
 options.guiScale.auto,Auto,autonomi
 options.renderClouds,Clouds,megame
 options.particles,Particles,dane
@@ -3614,7 +3614,7 @@ debug.help.message,Key bindings:,bende da butone:
 debug.reload_resourcepacks.message,Reloaded resource packs,reylada resource packs
 debug.crash.message,F3 + C is held down. This will crash the game unless released.,F3 + C hafizo puxu. ye vil crash the game unless released.
 debug.crash.warning,Crashing in %s...,Crashing in %s...
-resourcepack.downloading,Downloading Resource Pack,"netogeta pake da "
+resourcepack.downloading,Downloading Resource Pack,netogeta pake da 
 resourcepack.requesting,Making Request...,pliza pa nete...
 resourcepack.progress,Downloading file (%s MB)...,netogeta dokume (%s MB)...
 tutorial.move.title,"Move with %s, %s, %s and %s","kina sa %s, %s, %s e %s"
@@ -4254,7 +4254,7 @@ commands.difficulty.failure,The difficulty did not change; it is already set to 
 commands.enchant.failed.entity,%s is not a valid entity for this command,no abla uza yi komande sa %s
 commands.enchant.failed.itemless,%s is not holding any item,%s is not holding any item
 commands.enchant.failed.incompatible,%s cannot support that enchantment,%s no macabli sa vi magia
-commands.enchant.failed.level,%s is higher than the maximum level of %s supported by that enchantment,"%s max ko maximi darje da %s da esa abli sa vi "
+commands.enchant.failed.level,%s is higher than the maximum level of %s supported by that enchantment,%s max ko maximi darje da %s da esa abli sa vi 
 commands.execute.blocks.toobig,"Too many blocks in the specified area (maximum %s, specified %s)","max bloke ko bas sa cuzi aria (maxime %s, cuze %s)"
 commands.execute.conditional.pass,Test passed,Test passed
 commands.execute.conditional.pass_count,"Test passed, count: %s","Test passed, count: %s"
