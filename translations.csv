@@ -476,7 +476,7 @@ options.ao.off,OFF,no
 options.ao.min,Minimum,minime
 options.ao.max,Maximum,maxime
 options.anaglyph,3D Anaglyph,dulgrafe
-options.chunks,%s chunks,%s chunks
+options.chunks,%s chunks,%s canke
 options.framerate,%s fps,%s freme sa mey sekunde
 options.framerateLimit,Max Framerate,maximi fremrapidia
 options.framerateLimit.max,Unlimited,anlimiti

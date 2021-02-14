@@ -3,13 +3,6 @@ menu.returnToMenu
 
 multiplayer.status.pinging
 
-options.chunks
-
-block.minecraft.red_nether_brick_stairs
-block.minecraft.red_nether_brick_slab
-block.minecraft.nether_brick_wall
-block.minecraft.red_nether_brick_wall
-
 item.minecraft.name_tag
 
 item.minecraft.spectral_arrow
@@ -48,8 +41,6 @@ item.minecraft.firework_star.flicker
 
 item.minecraft.firework_star.shape.creeper
 item.minecraft.firework_star.shape.burst
-
-item.minecraft.nether_brick
 
 item.minecraft.elytra
 item.minecraft.totem_of_undying
@@ -218,7 +209,6 @@ advancements.end.elytra.description
 advancements.nether.get_wither_skull.title
 advancements.nether.get_wither_skull.description
 advancements.nether.summon_wither.title
-advancements.story.enter_the_nether.description
 advancements.story.smelt_iron.title
 
 commands.execute.conditional.pass
@@ -251,7 +241,6 @@ parsing.float.invalid
 parsing.float.expected
 parsing.bool.expected
 
-biome.minecraft.nether
 biome.minecraft.eroded_badlands
 
 realms.missing.snapshot.error.text
