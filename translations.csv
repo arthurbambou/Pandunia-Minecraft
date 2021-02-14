@@ -1641,7 +1641,7 @@ item.minecraft.rabbit_spawn_egg,Rabbit Spawn Egg,zayande da tuze
 item.minecraft.fox_spawn_egg,Fox Spawn Egg,zayande da hule
 item.minecraft.salmon_spawn_egg,Salmon Spawn Egg,zayande da samone
 item.minecraft.sheep_spawn_egg,Sheep Spawn Egg,zayande da mehe
-item.minecraft.shulker_spawn_egg,Shulker Spawn Egg,Shulker Spavn Egg
+item.minecraft.shulker_spawn_egg,Shulker Spawn Egg,zayande da xulker
 item.minecraft.silverfish_spawn_egg,Silverfish Spawn Egg,zayande da argentofixe
 item.minecraft.skeleton_spawn_egg,Skeleton Spawn Egg,zayande da ostojame
 item.minecraft.skeleton_horse_spawn_egg,Skeleton Horse Spawn Egg,zayande da osti gude
@@ -1918,8 +1918,8 @@ entity.minecraft.pufferfish,Pufferfish,balonofixe
 entity.minecraft.rabbit,Rabbit,tuze
 entity.minecraft.salmon,Salmon,samone
 entity.minecraft.sheep,Sheep,meh
-entity.minecraft.shulker,Shulker,Shulker
-entity.minecraft.shulker_bullet,Shulker Bullet,Shulker dane
+entity.minecraft.shulker,Shulker,xulker
+entity.minecraft.shulker_bullet,Shulker Bullet,xulker dane
 entity.minecraft.silverfish,Silverfish,argentofixe
 entity.minecraft.skeleton,Skeleton,ostojamia
 entity.minecraft.skeleton_horse,Skeleton Horse,osti gude
@@ -3133,8 +3133,8 @@ subtitles.block.piston.move,Piston moves,puxer puxa
 subtitles.block.portal.ambient,Portal whooshes,mun morova
 subtitles.block.pressure_plate.click,Pressure Plate clicks,plate da puxe klika
 subtitles.block.redstone_torch.burnout,Torch fizzes,fotobatone mortu
-subtitles.block.shulker_box.close,Shulker closes,Shulker ankayu
-subtitles.block.shulker_box.open,Shulker opens,Shulker kayu
+subtitles.block.shulker_box.close,Shulker closes,xulker ankayu
+subtitles.block.shulker_box.open,Shulker opens,xulker kayu
 subtitles.block.smoker.smoke,Smoker smokes,dumaner dumana
 subtitles.block.trapdoor.toggle,Trapdoor creaks,padomun krihika
 subtitles.block.tripwire.attach,Tripwire attaches,korde fiksu

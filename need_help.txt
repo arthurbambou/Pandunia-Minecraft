@@ -21,7 +21,6 @@ item.minecraft.evoker_spawn_egg
 item.minecraft.ghast_spawn_egg
 item.minecraft.husk_spawn_egg
 item.minecraft.mooshroom_spawn_egg
-item.minecraft.shulker_spawn_egg
 item.minecraft.slime_spawn_egg
 item.minecraft.stray_spawn_egg
 item.minecraft.vex_spawn_egg
@@ -49,8 +48,6 @@ item.minecraft.shulker_shell
 item.minecraft.debug_stick
 item.minecraft.debug_stick.empty
 
-container.shulkerBox
-
 structure_block.custom_data
 
 item.nbt_tags
@@ -64,7 +61,6 @@ entity.minecraft.ghast
 entity.minecraft.husk
 entity.minecraft.illusioner
 entity.minecraft.mooshroom
-entity.minecraft.shulker
 entity.minecraft.shulker_bullet
 entity.minecraft.slime
 
@@ -118,8 +114,6 @@ advMode.mode.redstoneTriggered
 subtitles.block.chorus_flower.death
 subtitles.block.chorus_flower.grow
 subtitles.block.furnace.fire_crackle
-subtitles.block.shulker_box.close
-subtitles.block.shulker_box.open
 subtitles.entity.parrot.imitate.ravager
 subtitles.entity.parrot.imitate.shulker
 subtitles.entity.parrot.imitate.vex
