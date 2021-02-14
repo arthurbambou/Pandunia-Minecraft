@@ -609,7 +609,7 @@ key.loadToolbarActivator,Load Toolbar Activator,lada tule du faxe
 key.advancements,Advancements,jine
 key.categories.movement,Movement,mote
 key.categories.misc,Miscellaneous,balibali
-key.categories.multiplayer,Multiplayer,multogemer
+key.categories.multiplayer,Multiplayer,polgemer
 key.categories.gameplay,Gameplay,geme
 key.categories.ui,Game Interface,geme du ekran
 key.categories.inventory,Inventory,rukosake
@@ -1268,7 +1268,7 @@ block.minecraft.potted_bamboo,Potted Bamboo,banse sa vaze
 block.minecraft.skeleton_wall_skull,Skeleton Wall Skull,ostojami sare sa divare
 block.minecraft.skeleton_skull,Skeleton Skull,ostojami sare
 block.minecraft.wither_skeleton_wall_skull,Wither Skeleton Wall Skull,vizerostojami sare sa divare
-block.minecraft.wither_skeleton_skull,Wither Skeleton Skull,vitherostojami sare
+block.minecraft.wither_skeleton_skull,Wither Skeleton Skull,vizerostojami sare
 block.minecraft.zombie_wall_head,Zombie Wall Head,zombi sare sa divare
 block.minecraft.zombie_head,Zombie Head,zombi sare
 block.minecraft.player_wall_head,Player Wall Head,gemeri sare sa divare
@@ -1397,7 +1397,7 @@ item.minecraft.apple,Apple,aple
 item.minecraft.cookie,Cookie,biskute
 item.minecraft.bow,Bow,arke
 item.minecraft.arrow,Arrow,flece
-item.minecraft.spectral_arrow,Spectral Arrow,Spectral Arrov
+item.minecraft.spectral_arrow,Spectral Arrow,flece da Spectral
 item.minecraft.tipped_arrow,Tipped Arrow,flece da rezulte
 item.minecraft.dried_kelp,Dried Kelp,gani varkalge
 item.minecraft.coal,Coal,karbone
@@ -1502,7 +1502,7 @@ item.minecraft.brick,Brick,dobe
 item.minecraft.clay_ball,Clay,glutopote
 item.minecraft.paper,Paper,kaguje
 item.minecraft.book,Book,buke
-item.minecraft.slime_ball,Slimeball,Slimeball
+item.minecraft.slime_ball,Slimeball,slaimbol
 item.minecraft.chest_minecart,Minecart with Chest,guhogare e sanduke
 item.minecraft.furnace_minecart,Minecart with Furnace,guhogare e tanure
 item.minecraft.tnt_minecart,Minecart with TNT,guhogare e dinamite
@@ -1645,7 +1645,7 @@ item.minecraft.shulker_spawn_egg,Shulker Spawn Egg,zayande da xulker
 item.minecraft.silverfish_spawn_egg,Silverfish Spawn Egg,zayande da argentofixe
 item.minecraft.skeleton_spawn_egg,Skeleton Spawn Egg,zayande da ostojame
 item.minecraft.skeleton_horse_spawn_egg,Skeleton Horse Spawn Egg,zayande da osti gude
-item.minecraft.slime_spawn_egg,Slime Spawn Egg,Slime Spavn Egg
+item.minecraft.slime_spawn_egg,Slime Spawn Egg,zayande da slaimia
 item.minecraft.spider_spawn_egg,Spider Spawn Egg,zayande da arane
 item.minecraft.squid_spawn_egg,Squid Spawn Egg,zayande da kalamare
 item.minecraft.stray_spawn_egg,Stray Spawn Egg,Stray Spavn Egg
@@ -1660,8 +1660,8 @@ item.minecraft.witch_spawn_egg,Witch Spawn Egg,zayande da mager
 item.minecraft.wither_skeleton_spawn_egg,Wither Skeleton Spawn Egg,zayande da vizeri ostojame
 item.minecraft.wolf_spawn_egg,Wolf Spawn Egg,zayande da volfe
 item.minecraft.zombie_spawn_egg,Zombie Spawn Egg,zayande da zombe
-item.minecraft.zombie_horse_spawn_egg,Zombie Horse Spawn Egg,zayande da zombi guhe
-item.minecraft.zombie_pigman_spawn_egg,Zombie Pigman Spawn Egg,zayande da zombi gurube
+item.minecraft.zombie_horse_spawn_egg,Zombie Horse Spawn Egg,zayande da zombi gude
+item.minecraft.zombie_pigman_spawn_egg,Zombie Pigman Spawn Egg,zayande da zombi guruboren
 item.minecraft.zombie_villager_spawn_egg,Zombie Villager Spawn Egg,zayande da zombi rustoren
 item.minecraft.experience_bottle,Bottle o' Enchanting,botole da xutopunte
 item.minecraft.fire_charge,Fire Charge,pirobol
@@ -1923,12 +1923,12 @@ entity.minecraft.shulker_bullet,Shulker Bullet,xulker dane
 entity.minecraft.silverfish,Silverfish,argentofixe
 entity.minecraft.skeleton,Skeleton,ostojamia
 entity.minecraft.skeleton_horse,Skeleton Horse,osti gude
-entity.minecraft.slime,Slime,Slime
+entity.minecraft.slime,Slime,slaimia
 entity.minecraft.small_fireball,Small Fireball,lil pirobol
 entity.minecraft.snowball,Snowball,himobol
 entity.minecraft.snow_golem,Snow Golem,himi golem
 entity.minecraft.spawner_minecart,Minecart with Spawner,guhogare e zayiser
-entity.minecraft.spectral_arrow,Spectral Arrow,Spectral Arrov
+entity.minecraft.spectral_arrow,Spectral Arrow,flece da Spectral
 entity.minecraft.spider,Spider,arane
 entity.minecraft.squid,Squid,kalamare
 entity.minecraft.stray,Stray,Stray
@@ -2001,7 +2001,7 @@ entity.minecraft.experience_bottle,Thrown Bottle o' Enchanting,lanci botole da m
 entity.minecraft.experience_orb,Experience Orb,bol da xutopunte
 entity.minecraft.zombie,Zombie,zombe
 entity.minecraft.zombie_horse,Zombie Horse,zombi gude
-entity.minecraft.zombie_pigman,Zombie Pigman,zombi gurube
+entity.minecraft.zombie_pigman,Zombie Pigman,zombi guruboren
 entity.minecraft.zombie_villager,Zombie Villager,zombi rustoren
 death.fell.accident.ladder,%1$s fell off a ladder,%1$s padu ca eskale
 death.fell.accident.vines,%1$s fell off some vines,%1$s padu ca eskalodale
@@ -3189,15 +3189,15 @@ subtitles.entity.parrot.imitate.illusioner,Parrot murmurs,papagaye blabla
 subtitles.entity.parrot.imitate.magma_cube,Parrot squishes,papagaye sukueca
 subtitles.entity.parrot.imitate.phantom,Parrot screeches,papagaye krita
 subtitles.entity.parrot.imitate.pillager,Parrot murmurs,papagaye blabla
-subtitles.entity.parrot.imitate.ravager,Parrot grunts,Parrot grunts
-subtitles.entity.parrot.imitate.shulker,Parrot lurks,Parrot lurks
+subtitles.entity.parrot.imitate.ravager,Parrot grunts,papagaye grunts
+subtitles.entity.parrot.imitate.shulker,Parrot lurks,papagaye lurks
 subtitles.entity.parrot.imitate.silverfish,Parrot hisses,papagaye xisa
 subtitles.entity.parrot.imitate.skeleton,Parrot rattles,papagaye kerekera
 subtitles.entity.parrot.imitate.slime,Parrot squishes,papagaye sukueca
 subtitles.entity.parrot.imitate.spider,Parrot hisses,papagaye xisa
 subtitles.entity.parrot.imitate.stray,Parrot rattles,papagaye kerekera
-subtitles.entity.parrot.imitate.vex,Parrot vexes,Parrot vexes
-subtitles.entity.parrot.imitate.vindicator,Parrot mutters,Parrot mutters
+subtitles.entity.parrot.imitate.vex,Parrot vexes,papagaye vexes
+subtitles.entity.parrot.imitate.vindicator,Parrot mutters,papagaye mutters
 subtitles.entity.parrot.imitate.witch,Parrot giggles,papagaye hihiha
 subtitles.entity.parrot.imitate.wither,Parrot angers,papagaye furu
 subtitles.entity.parrot.imitate.wither_skeleton,Parrot rattles,papagaye kerekera
@@ -3303,14 +3303,14 @@ subtitles.entity.guardian.flop,Guardian flops,garder flapa
 subtitles.entity.guardian.hurt,Guardian hurts,garder paxu
 subtitles.entity.horse.ambient,Horse neighs,gude hihina
 subtitles.entity.horse.angry,Horse neighs,gude krita
-subtitles.entity.horse.armor,Horse armor equips,guhe fuka defkaske
+subtitles.entity.horse.armor,Horse armor equips,gude fuka defkaske
 subtitles.entity.horse.breathe,Horse breathes,gude nafasa
 subtitles.entity.horse.death,Horse dies,gude mortu
 subtitles.entity.horse.eat,Horse eats,gude yama
 subtitles.entity.horse.gallop,Horse gallops,gude dagadamu
 subtitles.entity.horse.hurt,Horse hurts,gude paxu
 subtitles.entity.horse.jump,Horse jumps,gude jampa
-subtitles.entity.horse.saddle,Saddle equips,guhe fuka side
+subtitles.entity.horse.saddle,Saddle equips,gude fuka side
 subtitles.entity.husk.ambient,Husk groans,Husk morova
 subtitles.entity.husk.converted_to_zombie,Husk converted to Zombie,Husk tarju pa zombe
 subtitles.entity.husk.death,Husk dies,Husk mortu
@@ -3422,15 +3422,15 @@ subtitles.entity.salmon.hurt,Salmon hurts,samone paxu
 subtitles.entity.sheep.ambient,Sheep baahs,meh meha
 subtitles.entity.sheep.death,Sheep dies,meh mortu
 subtitles.entity.sheep.hurt,Sheep hurts,meh paxu
-subtitles.entity.shulker.ambient,Shulker lurks,Shulker lurks
-subtitles.entity.shulker.close,Shulker closes,Shulker closes
-subtitles.entity.shulker.death,Shulker dies,Shulker dies
-subtitles.entity.shulker.hurt,Shulker hurts,Shulker hurts
-subtitles.entity.shulker.open,Shulker opens,Shulker opens
-subtitles.entity.shulker.shoot,Shulker shoots,Shulker shoots
-subtitles.entity.shulker.teleport,Shulker teleports,Shulker teleports
-subtitles.entity.shulker_bullet.hit,Shulker bullet explodes,Shulker bullet explodes
-subtitles.entity.shulker_bullet.hurt,Shulker bullet breaks,Shulker bullet breaks
+subtitles.entity.shulker.ambient,Shulker lurks,xulker lurks
+subtitles.entity.shulker.close,Shulker closes,xulker closes
+subtitles.entity.shulker.death,Shulker dies,xulker mortu
+subtitles.entity.shulker.hurt,Shulker hurts,xulker paxu
+subtitles.entity.shulker.open,Shulker opens,xulker opens
+subtitles.entity.shulker.shoot,Shulker shoots,xulker arka
+subtitles.entity.shulker.teleport,Shulker teleports,xulker teleports
+subtitles.entity.shulker_bullet.hit,Shulker bullet explodes,xulker bullet explodes
+subtitles.entity.shulker_bullet.hurt,Shulker bullet breaks,xulker bullet breaks
 subtitles.entity.silverfish.ambient,Silverfish hisses,argentofixe xisa
 subtitles.entity.silverfish.death,Silverfish dies,argentofixe mortu
 subtitles.entity.silverfish.hurt,Silverfish hurts,argentofixe paxu
@@ -3438,14 +3438,14 @@ subtitles.entity.skeleton.ambient,Skeleton rattles,ostojamia kerekera
 subtitles.entity.skeleton.death,Skeleton dies,ostojamia mortu
 subtitles.entity.skeleton.hurt,Skeleton hurts,ostojamia paxu
 subtitles.entity.skeleton.shoot,Skeleton shoots,ostojamia arka
-subtitles.entity.skeleton_horse.ambient,Skeleton Horse cries,ostojamia gude krita
-subtitles.entity.skeleton_horse.death,Skeleton Horse dies,ostojamia gude mortu
-subtitles.entity.skeleton_horse.hurt,Skeleton Horse hurts,ostojamia gude paxu
-subtitles.entity.skeleton_horse.swim,Skeleton Horse swims,ostojamia gude boya
-subtitles.entity.slime.attack,Slime attacks,Slime attacks
-subtitles.entity.slime.death,Slime dies,Slime dies
-subtitles.entity.slime.hurt,Slime hurts,Slime hurts
-subtitles.entity.slime.squish,Slime squishes,Slime squishes
+subtitles.entity.skeleton_horse.ambient,Skeleton Horse cries,osti gude krita
+subtitles.entity.skeleton_horse.death,Skeleton Horse dies,osti gude mortu
+subtitles.entity.skeleton_horse.hurt,Skeleton Horse hurts,osti gude paxu
+subtitles.entity.skeleton_horse.swim,Skeleton Horse swims,osti gude boya
+subtitles.entity.slime.attack,Slime attacks,slaimia attacks
+subtitles.entity.slime.death,Slime dies,slaimia mortu
+subtitles.entity.slime.hurt,Slime hurts,slaimia paxu
+subtitles.entity.slime.squish,Slime squishes,slaimia squishes
 subtitles.entity.snowball.throw,Snowball flies,himbol feya
 subtitles.entity.snow_golem.death,Snow Golem dies,himi golem mortu
 subtitles.entity.snow_golem.hurt,Snow Golem hurts,himi golem paxu
@@ -3454,7 +3454,7 @@ subtitles.entity.spider.death,Spider dies,arane mortu
 subtitles.entity.spider.hurt,Spider hurts,arane paxu
 subtitles.entity.squid.ambient,Squid swims,kalamare boya
 subtitles.entity.squid.death,Squid dies,kalamare mortu
-subtitles.entity.squid.hurt,Squid hurts,kalamare mortu
+subtitles.entity.squid.hurt,Squid hurts,kalamare paxu
 subtitles.entity.squid.squirt,Squid shoots ink,kalamare moga
 subtitles.entity.stray.ambient,Stray rattles,Stray kerekera
 subtitles.entity.stray.death,Stray dies,Stray mortu
@@ -3474,8 +3474,8 @@ subtitles.entity.turtle.shamble,Turtle shambles,tortuge marca
 subtitles.entity.turtle.shamble_baby,Turtle baby shambles,bebi tortuge marca
 subtitles.entity.vex.ambient,Vex vexes,Vex vexes
 subtitles.entity.vex.charge,Vex shrieks,Vex shrieks
-subtitles.entity.vex.death,Vex dies,Vex dies
-subtitles.entity.vex.hurt,Vex hurts,Vex hurts
+subtitles.entity.vex.death,Vex dies,Vex mortu
+subtitles.entity.vex.hurt,Vex hurts,Vex paxu
 subtitles.entity.villager.ambient,Villager mumbles,rustoren blabla
 subtitles.entity.villager.celebrate,Villager cheers,rustoren ura
 subtitles.entity.villager.death,Villager dies,rustoren mortu
@@ -3691,7 +3691,7 @@ advancements.husbandry.balanced_diet.description,"Eat everything that is edible,
 advancements.husbandry.complete_catalogue.title,A Complete Catalogue,holi liste
 advancements.husbandry.complete_catalogue.description,Tame all cat variants!,domodarsa mey tipe da mav!
 advancements.husbandry.safely_harvest_honey.title,Bee Our Guest,jentili vespe
-advancements.husbandry.safely_harvest_honey.description,Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees,"uza kampopire, tira mele ca Beehive sa botole na agresu vespe"
+advancements.husbandry.safely_harvest_honey.description,Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees,"uza kampopire, tira mele ca melovespi sanduke sa botole na agresu vespe"
 advancements.husbandry.silk_touch_nest.title,Total Beelocation,migre da vespe
 advancements.husbandry.silk_touch_nest.description,"Move a Bee Nest, with 3 bees inside, using Silk Touch","migra vespi nizde da tena 3 vespe, uza toce da sile"
 advancements.end.dragon_breath.title,You Need a Mint,te nida minte
@@ -3886,8 +3886,8 @@ commands.experience.query.levels,%s has %s experience levels,%s tena %s xutodarj
 commands.fill.success,Successfully filled %s blocks,Successfully filled %s blocks
 commands.function.success.single,Executed %s commands from function '%s',Executed %s commands from function '%s'
 commands.function.success.multiple,Executed %s commands from %s functions,Executed %s commands from %s functions
-commands.give.success.single,Gave %s %s to %s,Gave %s %s to %s
-commands.give.success.multiple,Gave %s %s to %s players,Gave %s %s to %s players
+commands.give.success.single,Gave %s %s to %s,dona %s %s pa %s
+commands.give.success.multiple,Gave %s %s to %s players,dona %s %s pa %s gemer
 commands.playsound.success.single,Played sound %s to %s,Played sound %s to %s
 commands.playsound.success.multiple,Played sound %s to %s players,Played sound %s to %s players
 commands.publish.success,Multiplayer game is now hosted on port %s,Multiplayer game is nov hosted on port %s
@@ -4391,7 +4391,7 @@ color.minecraft.brown,Brown,bruni
 color.minecraft.green,Green,lugi
 color.minecraft.red,Red,lali
 color.minecraft.black,Black,cerni
-title.singleplayer,Singleplayer,un gemer
-title.multiplayer.realms,Multiplayer (Realms),multi gemer (relme)
-title.multiplayer.lan,Multiplayer (LAN),multi gemer (l.a.n.)
-title.multiplayer.other,Multiplayer (3rd-party),multi gemer (tinopartia)
+title.singleplayer,Singleplayer,ungemer
+title.multiplayer.realms,Multiplayer (Realms),polgemer (Realms)
+title.multiplayer.lan,Multiplayer (LAN),polgemer (l.a.n.)
+title.multiplayer.other,Multiplayer (3rd-party),polgemer (tinopartia)

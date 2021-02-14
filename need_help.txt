@@ -9,13 +9,10 @@ item.minecraft.spectral_arrow
 
 item.minecraft.redstone
 
-item.minecraft.slime_ball
-
 block.minecraft.repeater
 block.minecraft.comparator
 
 item.minecraft.ghast_tear
-item.minecraft.nether_wart
 
 item.minecraft.evoker_spawn_egg
 item.minecraft.ghast_spawn_egg
@@ -25,7 +22,6 @@ item.minecraft.slime_spawn_egg
 item.minecraft.stray_spawn_egg
 item.minecraft.vex_spawn_egg
 item.minecraft.vindicator_spawn_egg
-item.minecraft.witch_spawn_egg
 
 item.minecraft.nether_star
 
@@ -59,7 +55,6 @@ entity.minecraft.husk
 entity.minecraft.illusioner
 entity.minecraft.mooshroom
 entity.minecraft.shulker_bullet
-entity.minecraft.slime
 
 entity.minecraft.spectral_arrow
 
@@ -90,9 +85,6 @@ entity.minecraft.tropical_fish.predefined.21
 entity.minecraft.vex
 
 entity.minecraft.vindicator
-
-entity.minecraft.wither_skeleton
-entity.minecraft.wither_skull
 
 enchantment.minecraft.sweeping
 
@@ -136,16 +128,11 @@ subtitles.entity.mooshroom.milk
 subtitles.entity.mooshroom.suspicious_milk
 subtitles.entity.shulker.ambient
 subtitles.entity.shulker.close
-subtitles.entity.shulker.death
-subtitles.entity.shulker.hurt
 subtitles.entity.shulker.open
-subtitles.entity.shulker.shoot
 subtitles.entity.shulker.teleport
 subtitles.entity.shulker_bullet.hit
 subtitles.entity.shulker_bullet.hurt
 subtitles.entity.slime.attack
-subtitles.entity.slime.death
-subtitles.entity.slime.hurt
 subtitles.entity.slime.squish
 subtitles.entity.stray.ambient
 subtitles.entity.stray.death
