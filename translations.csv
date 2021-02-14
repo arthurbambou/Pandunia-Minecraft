@@ -1657,7 +1657,7 @@ item.minecraft.villager_spawn_egg,Villager Spawn Egg,zayande da rustoren
 item.minecraft.wandering_trader_spawn_egg,Wandering Trader Spawn Egg,zayande da safari vendoxoper
 item.minecraft.vindicator_spawn_egg,Vindicator Spawn Egg,Vindicator Spavn Egg
 item.minecraft.witch_spawn_egg,Witch Spawn Egg,zayande da mager
-item.minecraft.wither_skeleton_spawn_egg,Wither Skeleton Spawn Egg,vither Skeleton Spavn Egg
+item.minecraft.wither_skeleton_spawn_egg,Wither Skeleton Spawn Egg,zayande da vizeri ostojame
 item.minecraft.wolf_spawn_egg,Wolf Spawn Egg,zayande da volfe
 item.minecraft.zombie_spawn_egg,Zombie Spawn Egg,zayande da zombe
 item.minecraft.zombie_horse_spawn_egg,Zombie Horse Spawn Egg,zayande da zombi guhe
@@ -1675,7 +1675,7 @@ item.minecraft.potato,Potato,patate
 item.minecraft.baked_potato,Baked Potato,beki patate
 item.minecraft.poisonous_potato,Poisonous Potato,toksi patate
 item.minecraft.skeleton_skull,Skeleton Skull,ostojami sare
-item.minecraft.wither_skeleton_skull,Wither Skeleton Skull,vither Skeleton Skull
+item.minecraft.wither_skeleton_skull,Wither Skeleton Skull,vizeri ostojami sare
 item.minecraft.zombie_head,Zombie Head,zombi sare
 item.minecraft.creeper_head,Creeper Head,kriperi sare
 item.minecraft.dragon_head,Dragon Head,lungi sare
@@ -1993,9 +1993,9 @@ entity.minecraft.wandering_trader,Wandering Trader,safari vendoxoper
 entity.minecraft.iron_golem,Iron Golem,feri golem
 entity.minecraft.vindicator,Vindicator,Vindicator
 entity.minecraft.witch,Witch,mager
-entity.minecraft.wither,Wither,vither
-entity.minecraft.wither_skeleton,Wither Skeleton,vither Skeleton
-entity.minecraft.wither_skull,Wither Skull,vither Skull
+entity.minecraft.wither,Wither,vizer
+entity.minecraft.wither_skeleton,Wither Skeleton,vizeri ostojamia
+entity.minecraft.wither_skull,Wither Skull,vizeri sare
 entity.minecraft.wolf,Wolf,volfe
 entity.minecraft.experience_bottle,Thrown Bottle o' Enchanting,lanci botole da magia
 entity.minecraft.experience_orb,Experience Orb,bol da xutopunte
@@ -2105,7 +2105,7 @@ effect.minecraft.night_vision,Night Vision,nocovide
 effect.minecraft.hunger,Hunger,yamonide
 effect.minecraft.weakness,Weakness,debilia
 effect.minecraft.poison,Poison,tokse
-effect.minecraft.wither,Wither,vither
+effect.minecraft.wither,Wither,vizer
 effect.minecraft.health_boost,Health Boost,max bon sihe
 effect.minecraft.absorption,Absorption,cupia
 effect.minecraft.saturation,Saturation,puria
@@ -3512,14 +3512,14 @@ subtitles.entity.witch.death,Witch dies,mager mortu
 subtitles.entity.witch.drink,Witch drinks,mager gulu
 subtitles.entity.witch.hurt,Witch hurts,mager paxu
 subtitles.entity.witch.throw,Witch throws,mager lanca
-subtitles.entity.wither.ambient,Wither angers,vither furu
-subtitles.entity.wither.death,Wither dies,vither mortu
-subtitles.entity.wither.hurt,Wither hurts,vither paxu
-subtitles.entity.wither.shoot,Wither attacks,vither agresa
-subtitles.entity.wither.spawn,Wither released,vither huru
-subtitles.entity.wither_skeleton.ambient,Wither Skeleton rattles,vither ostojamia kerekera
-subtitles.entity.wither_skeleton.death,Wither Skeleton dies,vither ostojamia mortu
-subtitles.entity.wither_skeleton.hurt,Wither Skeleton hurts,vither ostojamia paxu
+subtitles.entity.wither.ambient,Wither angers,vizer furu
+subtitles.entity.wither.death,Wither dies,vizer mortu
+subtitles.entity.wither.hurt,Wither hurts,vizer paxu
+subtitles.entity.wither.shoot,Wither attacks,vizer agresa
+subtitles.entity.wither.spawn,Wither released,vizer huru
+subtitles.entity.wither_skeleton.ambient,Wither Skeleton rattles,vizeri ostojamia kerekera
+subtitles.entity.wither_skeleton.death,Wither Skeleton dies,vizeri ostojamia mortu
+subtitles.entity.wither_skeleton.hurt,Wither Skeleton hurts,vizeri ostojamia paxu
 subtitles.entity.wolf.ambient,Wolf pants,volfe haha
 subtitles.entity.wolf.death,Wolf dies,volfe mortu
 subtitles.entity.wolf.growl,Wolf growls,volfe gerla
@@ -3725,7 +3725,7 @@ advancements.nether.create_full_beacon.description,Bring a beacon to full power,
 advancements.nether.find_fortress.title,A Terrible Fortress,mal burge
 advancements.nether.find_fortress.description,Break your way into a Nether Fortress,jino kava burge da nezer
 advancements.nether.get_wither_skull.title,Spooky Scary Skeleton,Spooky Scary ostojamia
-advancements.nether.get_wither_skull.description,Obtain a Wither Skeleton's skull,Obtain a vither ostojamia's skull
+advancements.nether.get_wither_skull.description,Obtain a Wither Skeleton's skull,Obtain a vizeri ostojamia sare
 advancements.nether.obtain_blaze_rod.title,Into Fire,jino pa pire
 advancements.nether.obtain_blaze_rod.description,Relieve a Blaze of its rod,ca ifrite kapa li batone
 advancements.nether.return_to_sender.title,Return to Sender,retra pa miser
@@ -3733,7 +3733,7 @@ advancements.nether.return_to_sender.description,Destroy a Ghast with a fireball
 advancements.nether.root.title,Nether,nezer
 advancements.nether.root.description,Bring summer clothes,te abla nida fuke da lete
 advancements.nether.summon_wither.title,Withering Heights,vithering Heights
-advancements.nether.summon_wither.description,Summon the Wither,zayisa vider
+advancements.nether.summon_wither.description,Summon the Wither,zayisa vizer
 advancements.nether.fast_travel.title,Subspace Bubble,rapidi safare
 advancements.nether.fast_travel.description,Use the Nether to travel 7 km in the Overworld,"uza nezer, safara 7 km sa suprozeme"
 advancements.nether.uneasy_alliance.title,Uneasy Alliance,duti dostia

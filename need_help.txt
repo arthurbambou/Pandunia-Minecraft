@@ -26,9 +26,6 @@ item.minecraft.stray_spawn_egg
 item.minecraft.vex_spawn_egg
 item.minecraft.vindicator_spawn_egg
 item.minecraft.witch_spawn_egg
-item.minecraft.wither_skeleton_spawn_egg
-
-item.minecraft.wither_skeleton_skull
 
 item.minecraft.nether_star
 
@@ -93,11 +90,9 @@ entity.minecraft.tropical_fish.predefined.21
 entity.minecraft.vex
 
 entity.minecraft.vindicator
-entity.minecraft.wither
+
 entity.minecraft.wither_skeleton
 entity.minecraft.wither_skull
-
-effect.minecraft.wither
 
 enchantment.minecraft.sweeping
 
@@ -160,14 +155,7 @@ subtitles.entity.vindicator.ambient
 subtitles.entity.vindicator.celebrate
 subtitles.entity.vindicator.death
 subtitles.entity.vindicator.hurt
-subtitles.entity.wither.ambient
-subtitles.entity.wither.death
-subtitles.entity.wither.hurt
-subtitles.entity.wither.shoot
-subtitles.entity.wither.spawn
-subtitles.entity.wither_skeleton.ambient
-subtitles.entity.wither_skeleton.death
-subtitles.entity.wither_skeleton.hurt
+
 subtitles.item.armor.equip_elytra
 subtitles.item.totem.use
 debug.reload_chunks.help
@@ -202,7 +190,7 @@ resourcepack.downloading
 advancements.end.elytra.description
 advancements.nether.get_wither_skull.title
 advancements.nether.get_wither_skull.description
-advancements.nether.summon_wither.title
+
 advancements.story.smelt_iron.title
 
 commands.execute.conditional.pass
